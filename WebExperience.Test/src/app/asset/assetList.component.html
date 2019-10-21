@@ -1,0 +1,14 @@
+﻿<h3>Asset List</h3>
+<div class="grid grid-pad">
+    <a *ngFor="let asset of assets" class="col-1-4" routerLink="/detail/{{asset.Id}}">
+        <div class="module">
+            <h4>{{asset.AssetName | uppercase}}</h4>
+        </div>
+        <div class="module" *ngIf="assets && assets.length==0">
+            <h4>No assets</h4>
+        </div>
+        <div class="module" *ngIf="!assets">
+            <h4>Loading...</h4>
+        </div>
+    </a>
+</div>

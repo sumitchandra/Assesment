@@ -1,0 +1,8 @@
+C:\Users\m74092\Desktop\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.exe.config
+C:\Users\m74092\Desktop\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.exe
+C:\Users\m74092\Desktop\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.pdb
+C:\Users\m74092\Desktop\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.Resources.resources
+C:\Users\m74092\Desktop\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.GenerateResource.cache
+C:\Users\m74092\Desktop\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.exe
+C:\Users\m74092\Desktop\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.pdb
+C:\Users\m74092\Desktop\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csprojAssemblyReference.cache

@@ -1,0 +1,53 @@
+{
+    "samples": [
+        {
+            "date": "2014-08-10T09:00:00Z",
+            "temperature": 10,
+            "pH": 4,
+            "phosphate": 4,
+            "chloride": 4,
+            "nitrate": 10
+        },
+        {
+            "date": "2014-08-12T09:05:00Z",
+            "temperature": 10.5,
+            "pH": 5,
+            "chloride": 4,
+            "phosphate": 4
+        },
+        {
+            "date": "2014-08-14T09:02:00Z",
+            "temperature": 10.8,
+            "pH": 3,
+            "phosphate": 4
+        },
+        {
+            "date": "2014-08-16T09:02:00Z",
+            "temperature": 11.2,
+            "pH": 6,
+            "chloride": 4
+        },
+        {
+            "date": "2014-08-18T08:58:00Z",
+            "temperature": 10.9,
+            "pH": 10,
+            "chloride": 4,
+            "phosphate": 4,
+            "nitrate": 10
+        },
+        {
+            "date": "2014-08-20T09:10:00Z",
+            "temperature": 9.3,
+            "pH": 6,
+            "phosphate": 4
+        },
+        {
+            "date": "2014-08-22T09:01:00Z",
+            "temperature": 9.5,
+            "pH": 10,
+            "chloride": 4,
+            "phosphate": 4,
+            "nitrate": 10
+        }
+    ]
+}

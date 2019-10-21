@@ -1,0 +1,9 @@
+﻿<div *ngIf="asset">
+    <h2>{{asset.AssetName | uppercase}} Details</h2>
+    <div><label>Asset ID: {{asset.Id}}</label></div>
+    <div><label>Asset Name: {{asset.AssetName}}</label></div>
+    <div><label>Asset Description: {{asset.AssetDescription}}</label></div>
+    <div *ngIf="asset.CreatedDate"><label>Created On: {{asset.CreatedDate}}</label></div>
+    <div *ngIf="asset.UpdatedDate"><label>Last Updated: {{asset.UpdatedDate}}</label></div>
+    <button (click)="goBack()">go back to initial list</button>
+</div>

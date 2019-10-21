@@ -1,0 +1,10 @@
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\bin\Debug\AssetDAL.dll.config
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\bin\Debug\AssetDAL.dll
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\bin\Debug\AssetDAL.pdb
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\bin\Debug\EntityFramework.dll
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\bin\Debug\EntityFramework.xml
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\obj\Debug\AssetDAL.csproj.CopyComplete
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\obj\Debug\AssetDAL.dll
+C:\Users\m74092\Desktop\dotNET developer (1)\AssetDAL\obj\Debug\AssetDAL.pdb
